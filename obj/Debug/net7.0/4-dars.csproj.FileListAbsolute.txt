@@ -1,0 +1,14 @@
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.AssemblyInfoInputs.cache
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.AssemblyInfo.cs
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.csproj.CoreCompileInputs.cache
+/Users/ibrohimjon/dotnet/4-dars/bin/Debug/net7.0/4-dars
+/Users/ibrohimjon/dotnet/4-dars/bin/Debug/net7.0/4-dars.deps.json
+/Users/ibrohimjon/dotnet/4-dars/bin/Debug/net7.0/4-dars.runtimeconfig.json
+/Users/ibrohimjon/dotnet/4-dars/bin/Debug/net7.0/4-dars.dll
+/Users/ibrohimjon/dotnet/4-dars/bin/Debug/net7.0/4-dars.pdb
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.dll
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/refint/4-dars.dll
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.pdb
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/4-dars.genruntimeconfig.cache
+/Users/ibrohimjon/dotnet/4-dars/obj/Debug/net7.0/ref/4-dars.dll
